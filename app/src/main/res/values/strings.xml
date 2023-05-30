@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneAuthentification</string>
+    <string name="didn_t_get_otp_code_resend">Didn\'t get OTP code? <b>Resend</b></string>
+</resources>
